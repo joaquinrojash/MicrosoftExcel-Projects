@@ -41,7 +41,7 @@ Automated invoice generator for a car dealership. Allows sales tracking and prin
 
 I'm always open to new opportunities involving Excel, data analytics, and automation. Feel free to reach out if you're hiring or interested in collaboration!
 
-> 📧 joaquinrojash@gmail.com  
+> 📧 joaquinrojash@hotmail.com  
 > 🌐 [LinkedIn](https://linkedin.com/in/joaquinrojash)  
 > 🐙 [GitHub Profile](https://github.com/joaquinrojash)
 
